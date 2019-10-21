@@ -1,5 +1,5 @@
 {
-    "name": "Monorepo/spinach",
+    "name": "monorepo/spinach",
     "require": {
         "php": "^7.1",
         "symfony/dependency-injection": "^4.1"
